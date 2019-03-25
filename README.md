@@ -1,2 +1,3 @@
 # hello-world
-my first project
+I am a programmer with dreams!
+This is my first project！
